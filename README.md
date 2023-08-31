@@ -7,17 +7,23 @@
 ## Авторизация с любой страницы
 
 **1179_close_popup.js** - [Закрытие поп-апа по х](https://expero.testit.software/projects/1152/tests/1179?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1180_close_popup_outside.js** - [Закрытие поп-апа по клику вне зоны попапа](https://expero.testit.software/projects/1152/tests/1180?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1181_active_number_input.js** - [Форма ввода телефона](https://expero.testit.software/projects/1152/tests/1181?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1182_short_number.js** - [Форма ввода телефона, ввод не полного номера](https://expero.testit.software/projects/1152/tests/1182?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1184_save_number.js** - [Форма ввода телефона, ввод не полного номера, переоткрытие попапа](https://expero.testit.software/projects/1152/tests/1184?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1185_priv_policy.js** - [Политика конфиденциальности](https://expero.testit.software/projects/1152/tests/1185?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
+
 **1186_agreement.js** - [Пользовательское соглащение](https://expero.testit.software/projects/1152/tests/1186?isolatedSection=20820c8f-f5d9-40c6-b21a-8d3e071a7f98)
 
 ## Авторизация в Быстром заказе
 
-**1210_conf_policy.js** - [Политика конфиденциальности](https://expero.testit.software/projects/1152/tests/1210?isolatedSection=e552b5ab-3bfa-4c46-b594-ee8fa04b6db3)
-**1211_user_agreement.js** - [Пользовательское соглашение](https://expero.testit.software/projects/1152/tests/1211?isolatedSection=e552b5ab-3bfa-4c46-b594-ee8fa04b6db3)
+  **1210_conf_policy.js** - [Политика конфиденциальности](https://expero.testit.software/projects/1152/tests/1210?isolatedSection=e552b5ab-3bfa-4c46-b594-ee8fa04b6db3)
+  **1211_user_agreement.js** - [Пользовательское соглашение](https://expero.testit.software/projects/1152/tests/1211?isolatedSection=e552b5ab-3bfa-4c46-b594-ee8fa04b6db3)
 
 ## Авторизация в Корзине
 
