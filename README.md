@@ -90,7 +90,7 @@
 
 **2059_modal_close_out.js** - [Original. Закрытие модального окна. Клик вне области модального окна](https://expero.testit.software/projects/1152/tests/2059?isolatedSection=8852e0ef-a9a3-4575-bbc8-8392beeeb6bc)
 
-**2060_general.js** - [Expero рекомендует. Общий вид карточки товара]i(https://expero.testit.software/projects/1152/tests/2060?isolatedSection=8852e0ef-a9a3-4575-bbc8-8392beeeb6bc)
+**2060_general.js** - [Expero рекомендует. Общий вид карточки товара](https://expero.testit.software/projects/1152/tests/2060?isolatedSection=8852e0ef-a9a3-4575-bbc8-8392beeeb6bc)
 
 **2061_modal_open.js** - [Expero рекомендует. Открытие модального окна. Клик на плашку](https://expero.testit.software/projects/1152/tests/2061?isolatedSection=8852e0ef-a9a3-4575-bbc8-8392beeeb6bc)
 
